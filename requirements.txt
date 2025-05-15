@@ -1,0 +1,14 @@
+# Core libraries for data handling and ML
+pandas
+numpy
+scikit-learn
+joblib
+imbalanced-learn # For SMOTE
+
+# Web framework for the API
+Flask
+Werkzeug # Flask dependency for secure filenames
+
+# Optional, but were in the original script (can be removed if plots are fully removed)
+# matplotlib
+# seaborn
